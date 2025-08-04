@@ -17,6 +17,8 @@ A simple React app that allows you to mix colors using RGB sliders and save your
    git clone https://github.com/RishiMaskare/color-mixer.git
    cd color-mixer
 2. Install Dependencies
+   ```bash
     npm install
-3. Run
+4. Run
+   ```bash
     npm run dev
